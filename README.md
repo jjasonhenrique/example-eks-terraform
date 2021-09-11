@@ -1,1 +1,1 @@
-# example-elk-terraform
+# Example AWS EKS with terraform
